@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"note",
+				"noteAction"
+			],
+			[
+				"align",
+				"align-right"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"Mail",
+				"Mailserver"
+			],
+			[
+				"mms",
+				"mmshead"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"Cart",
+				"Cartitem"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"overflow-",
+				"overflow-y"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"cart",
+				"cartItemId"
+			],
+			[
+				"angular",
+				"angular-strap"
+			],
+			[
+				"panel-",
+				"panel-body"
+			],
+			[
+				"pan",
+				"panel-heading"
+			],
+			[
+				"col",
+				"col-md-9"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"deplo",
+				"deployMasterPages"
+			],
+			[
+				"select",
+				"selectedAddress"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"configura",
+				"configurazione"
+			],
+			[
+				"val",
+				"val"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 198.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"grunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Presentations/Mirai"
+	],
+	"file_history":
+	[
+		"/D/Mockup/KanbanCard/public/index.html",
+		"/D/Mockup/KanbanCard/jade/view",
+		"/D/Mockup/TroubleTicket/app/templates/newNote.html",
+		"/D/Mockup/TroubleTicket/node_modules/grunt-contrib-jshint/node_modules/jshint/src/reporters/non_error.js",
+		"/D/Mockup/TroubleTicket/app/scripts/directives/newnote.js",
+		"/D/Mockup/TroubleTicket/app/templates/newNote.jade",
+		"/D/Mockup/TroubleTicket/jade/templates/service.jade",
+		"/D/Mockup/TroubleTicket/app/templates/service.html",
+		"/D/Mockup/TroubleTicket/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
+		"/D/Mockup/TroubleTicket/bower_components/jquery/src/event.js",
+		"/D/Mockup/TroubleTicket/app/views/create.html",
+		"/D/Mockup/TroubleTicket/bower_components/ng-tags-input/ng-tags-input.js",
+		"/D/Mockup/TroubleTicket/app/index.html",
+		"/D/Mockup/TroubleTicket/.tmp/styles/main.css",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/karma/lib/init/state_machine.js",
+		"/D/Projects/Shindan/Shindan.GUI/bower_components/bootstrap-sass-official/sache.json",
+		"/D/Projects/Shindan/Shindan.GUI/jade/templates/products-list.jade",
+		"/D/Projects/Shindan/Shindan.GUI/.tmp/styles/main.css",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/grunt-contrib-connect/node_modules/connect/lib/public/style.css",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/grunt-contrib-jshint/node_modules/jshint/src/style.js",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/jshint-stylish/stylish.js",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/karma/node_modules/log4js/test/smtpAppender-test.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/templates/all-tickets.html",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/allrecoveries.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/views/diagnostic.html",
+		"/D/Projects/Shindan/Shindan.GUI/dist/views/diagnostic.html",
+		"/D/Projects/Shindan/Shindan.GUI/app/styles/main.scss",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/alertserviceisnotofthiscartitem.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/productslist.js",
+		"/D/Projects/Shindan/Shindan.GUI/jade/templates/mymailserver.jade",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/mymailserver.js",
+		"/D/Projects/Shindan/Shindan.GUI/jade/views/diagnostic.jade",
+		"/D/Projects/Shindan/Shindan.GUI/test/spec/controllers/diagnostic.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/controllers/diagnostic.js",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/grunt-google-cdn/node_modules/bower/node_modules/request/disabled.appveyor.yml",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/messagelist.js",
+		"/D/Projects/Shindan/Shindan.GUI/jade/templates/messagelist.jade",
+		"/D/Projects/Shindan/Shindan.GUI/app/templates/mymaileserver.html",
+		"/D/Projects/Shindan/Shindan.GUI/app/templates/messagelist.html",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/services/diagnosticapi.js",
+		"/D/Projects/Shindan/Shindan.GUI/Gruntfile.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/misc/viewport.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/directives/loadingpanel.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/index.html",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/filters/smartdate.js",
+		"/D/Projects/Shindan/Shindan.GUI/app/scripts/app.js",
+		"/D/Projects/Shindan/Shindan.GUI/KolstBackoffice.sublime-project",
+		"/D/Projects/Shindan/Shindan.GUI/app/styles/bootstrap.yeti.min.scss",
+		"/D/Projects/Shindan/Shindan.GUI/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg",
+		"/D/Projects/Shindan/Shindan.GUI/test/spec/directives/loadingpanel.js",
+		"/D/Projects/Shindan/Shindan.GUI/node_modules/karma/node_modules/optimist/example/line_count_options.js",
+		"/D/Projects/Shindan/Shindan.GUI/bower_components/bootstrap/LICENSE",
+		"/D/Mockup/Kolst Backoffice/app/views/diagnostic.html",
+		"/D/Mockup/Kolst Backoffice/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/object/deepMixIn.js",
+		"/D/Projects/Kolst/branches/main/KolstWebsite.Templates/app/styles/includes/_company-menu.styl",
+		"/D/Projects/Kolst/branches/main/KolstWebsite.Templates/Gruntfile.js",
+		"/D/Projects/Kolst/branches/main/WebSite/Sitefinity/ControlTemplates/Kolst/UserInfoBox.ascx",
+		"/D/Projects/Kolst/branches/main/KolstWebsite.Templates/app/styles/_cart-icon.styl",
+		"/D/Projects/Kolst/branches/main/KolstWebsite.Templates/.tmp/styles/main.css",
+		"/D/Projects/Kolst/branches/main/KolstWebsite.Templates/app/styles/main.styl",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/template/toponymy/toponymy-item.html",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/directives/toponymy.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/jade/views/main.jade",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/controllers/main.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/jade/template/vlan/vlan.jade",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/directives/vlan.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/app.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/jade/template/toponymy/toponymy-item.jade",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/config.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/index.html",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/config/dist.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/template/vlan/vlan.html",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-google-cdn/node_modules/bower/lib/util/validLink.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/test/spec/directives/toponymy.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/services/ngacoverageapi.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/package.json",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/Gruntfile.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/controllers/status.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/.tmp/concat/scripts/scripts.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/scripts/filters/duration.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-contrib-clean/AUTHORS",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-google-cdn/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/test/spec/services/ngacoverageapi.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/lib/phantom/examples/serverkeepalive.coffee",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/karma/lib/server.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/bower_components/jquery/src/serialize.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/postcss/lib/syntax-error.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/views/searchbyzone.html",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/bower.json",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/app/styles/main.scss",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/dist/scripts/scripts.d6c4ddc1.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-svgmin/node_modules/svgo/plugins/convertShapeToPath.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/text-overflow.json",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/node_modules/grunt-karma/TODO.md",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/dist/scripts/vendor.d41d8cd9.js",
+		"/D/Projects/Copertura FTTx/Indicizzatore/NGACoverage.WebSite/GUI/.tmp/concat/scripts/vendor.js",
+		"/C/Users/gianlucasanna/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"watch",
+			"tag-item",
+			"tag",
+			"label",
+			"*",
+			"-",
+			"messages",
+			"informazioni",
+			"recuper",
+			"order",
+			"ticket",
+			"date",
+			"tabset-content",
+			"mymail",
+			"  	$",
+			"transact",
+			"transaction",
+			"ticket",
+			"informazio",
+			"privacy",
+			"pagamento",
+			"}",
+			"{",
+			"    ",
+			"rtsTxt",
+			".RadTabStrip ",
+			".products-menu ",
+			".products-menu",
+			"}",
+			"{",
+			"    ",
+			"products-menu",
+			"row",
+			"cart",
+			"    ",
+			"}",
+			"{",
+			".container",
+			"contain",
+			"company-menu",
+			"jade",
+			"copy",
+			"    ",
+			"changed",
+			"http://nga.localhost",
+			"codice ISTAT della provincia",
+			"nga.localhost",
+			"boh",
+			"nga.local",
+			"filerev",
+			"usemin",
+			"concat",
+			"container",
+			"vlan(data=\"vlan.items[data._source.fTTHome.commonData.clliDellaCentraleSedeOlt.toLowerCase()]\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"* ",
+			"*",
+			"",
+			"	",
+			"",
+			"	"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Mirai.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"newn",
+				"jade\\templates\\newNote.jade"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"service",
+				"app\\scripts\\directives\\service.js"
+			],
+			[
+				"smart",
+				"app\\scripts\\filters\\smartdate.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"main",
+				"app\\styles\\main.scss"
+			],
+			[
+				"diagno",
+				"jade\\views\\diagnostic.jade"
+			],
+			[
+				"diagnostic.js",
+				"app\\scripts\\controllers\\diagnostic.js"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"loading",
+				"app\\scripts\\directives\\loadingpanel.js"
+			],
+			[
+				"diagnos",
+				"app\\scripts\\controllers\\diagnostic.js"
+			],
+			[
+				"topo",
+				"jade\\template\\toponymy\\toponymy-item.jade"
+			],
+			[
+				"vlan",
+				"app\\scripts\\directives\\vlan.js"
+			],
+			[
+				"toponim",
+				"jade\\template\\toponymy\\toponymy-item.jade"
+			],
+			[
+				"topon",
+				"app\\scripts\\directives\\toponymy.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\Copertura FTTx\\Indicizzatore\\NGACoverage.WebSite\\GUI\\NGACoverage.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
